@@ -2,6 +2,7 @@
 	"author": "Kanish",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "related", "words" ],
+	"version": "1.0.9",
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
 	"dependencies": {
